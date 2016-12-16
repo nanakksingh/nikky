@@ -58,7 +58,7 @@ ROOT_URLCONF = 'dock.urls'
 ROOT_HOSTCONF = 'dock.hosts'
 DEFAULT_HOST = 'www'
 DEFAULT_REDIRECT_URL =  "https://nikky.herokuapp.com"
-PARENT_HOST = "nikky.herokuapp.com"
+PARENT_HOST = "nikky.co"
 # DEFAULT_REDIRECT_URL =  "http://www.nikky.co"
 # PARENT_HOST = "nikky.co"
 
