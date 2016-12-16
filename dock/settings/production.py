@@ -25,7 +25,7 @@ SECRET_KEY = '#0+g0-=cagar8w952-gccyiy0ns#o)h9b^bu##=crgd&xwl7&6'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['niky.com','www.niky.com','niky.co','www.niky.co']
+ALLOWED_HOSTS = ['niky.com','www.niky.com','niky.co','www.niky.co','nikky.herokuapp.com']
 
 
 # Application definition
