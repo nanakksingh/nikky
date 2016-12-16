@@ -25,7 +25,8 @@ SECRET_KEY = '#0+g0-=cagar8w952-gccyiy0ns#o)h9b^bu##=crgd&xwl7&6'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['nikky.co','www.nikky.co','nikky.herokuapp.com']
+ALLOWED_HOSTS = ['nikky.herokuapp.com']
+#'nikky.co','www.nikky.co',
 
 
 # Application definition
@@ -58,7 +59,7 @@ ROOT_URLCONF = 'dock.urls'
 ROOT_HOSTCONF = 'dock.hosts'
 DEFAULT_HOST = 'www'
 DEFAULT_REDIRECT_URL =  "http://www.nikky.co"
-PARENT_HOST = "nikky.co"
+PARENT_HOST = "http://www.nikky.co"
 
 TEMPLATES = [
     {
