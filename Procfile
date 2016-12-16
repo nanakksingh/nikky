@@ -1,0 +1,1 @@
+web: gunicorn dock.wsgi --log-file -
